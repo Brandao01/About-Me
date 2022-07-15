@@ -1,5 +1,4 @@
-👋 Hello World
-I'm Matheus Brandão 👋
+👋 Hello World, sou o Matheus Brandão 👋
 
 📚 Estudante de Engenharia de Software (2º Periodo) <br />
 🗺️ Sou do Paraná ( Até onde a tecnologia me levar )
